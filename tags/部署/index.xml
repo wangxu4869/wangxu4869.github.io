@@ -6,10 +6,19 @@
     <description>Recent content in 部署 on To first page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Jan 2020 16:48:29 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 09:59:45 +0800</lastBuildDate>
     
 	<atom:link href="https://wangxu4869.github.io/tags/%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>测试</title>
+      <link>https://wangxu4869.github.io/2020/01/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Fri, 03 Jan 2020 09:59:45 +0800</pubDate>
+      
+      <guid>https://wangxu4869.github.io/2020/01/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hugo使用</title>
