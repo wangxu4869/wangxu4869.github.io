@@ -256,6 +256,14 @@
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
               <h1 id="hugo">hugo常用命令</h1>
+<p>下次更新文章：在myblog目录下执行：hugo new post/xxx.md
+然后编写文章</p>
+<p>hugo全局配置文件已经指定baseurl和主题，文章写好后编译进入myblog:  hugo &ndash;buildDrafts
+会将文章编译进public,在进入public目录将其推送至远端即可：
+git add .
+git commit -m &ldquo;xxx&rdquo;
+git push origin master</p>
+<hr>
 <p>创建新文章</p>
 <p>D:\blog\myblog&gt;hugo new post/blog2.md</p>
 <p>本地预览</p>
@@ -277,14 +285,9 @@ $ git commit -m &ldquo;第一次上传文件&rdquo;</p>
 $ git remote add origin <a href="https://github.com/wangxu4869/wangxu4869.github.io.git">https://github.com/wangxu4869/wangxu4869.github.io.git</a></p>
 <pre><code>推送远程
 </code></pre>
-<p>wx@LAPTOP-EN0RUGB1 MINGW64 /d/blog/myblog/public (master)
-$ git push -u origin master</p>
-<p>部署问题：</p>
-<p><a href="https://wangxu4869.github.io/uildDrafts/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css">https://wangxu4869.github.io/uildDrafts/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css</a>
-Request URL: <a href="https://wangxu4869.github.io/uildDrafts/images/cover.jpg">https://wangxu4869.github.io/uildDrafts/images/cover.jpg</a>
-Request URL: <a href="https://wangxu4869.github.io/uildDrafts/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js">https://wangxu4869.github.io/uildDrafts/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js</a></p>
-<p>以上几个路径资源找不到，发现public目录没有uildDrafts文件夹，手动创建后把css,js,images文件夹拖进去了
-流程命令：</p>
+<h2 id="-git-push--u-origin-master">wx@LAPTOP-EN0RUGB1 MINGW64 /d/blog/myblog/public (master)
+$ git push -u origin master</h2>
+<p>流程命令：</p>
 <p>hugo new site myblog</p>
 <p>git clone <a href="https://github.com/digitalcraftsman/hugo-agency-theme">https://github.com/digitalcraftsman/hugo-agency-theme</a></p>
 <p>hugo server -t hugo-agency-theme &ndash;buildDrafts</p>
