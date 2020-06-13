@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on To first page</title>
-    <link>uildDrafts/categories/</link>
+    <link>https://wangxu4869.github.io/categories/</link>
     <description>Recent content in Categories on To first page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Jan 2020 19:34:54 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 16:48:29 +0800</lastBuildDate>
     
-	<atom:link href="uildDrafts/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wangxu4869.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>category</title>
-      <link>uildDrafts/categories/category/</link>
-      <pubDate>Thu, 02 Jan 2020 19:34:54 +0800</pubDate>
-      
-      <guid>uildDrafts/categories/category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>subcategory</title>
-      <link>uildDrafts/categories/subcategory/</link>
-      <pubDate>Thu, 02 Jan 2020 19:34:54 +0800</pubDate>
-      
-      <guid>uildDrafts/categories/subcategory/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>java</title>
-      <link>uildDrafts/categories/java/</link>
+      <link>https://wangxu4869.github.io/categories/java/</link>
       <pubDate>Thu, 02 Jan 2020 16:48:29 +0800</pubDate>
       
-      <guid>uildDrafts/categories/java/</guid>
+      <guid>https://wangxu4869.github.io/categories/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>部署</title>
-      <link>uildDrafts/categories/%E9%83%A8%E7%BD%B2/</link>
+      <link>https://wangxu4869.github.io/categories/%E9%83%A8%E7%BD%B2/</link>
       <pubDate>Thu, 02 Jan 2020 16:48:29 +0800</pubDate>
       
-      <guid>uildDrafts/categories/%E9%83%A8%E7%BD%B2/</guid>
+      <guid>https://wangxu4869.github.io/categories/%E9%83%A8%E7%BD%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category</title>
+      <link>https://wangxu4869.github.io/categories/category/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangxu4869.github.io/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subcategory</title>
+      <link>https://wangxu4869.github.io/categories/subcategory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangxu4869.github.io/categories/subcategory/</guid>
       <description></description>
     </item>
     

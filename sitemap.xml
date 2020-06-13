@@ -3,72 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>uildDrafts/categories/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/categories/category/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/post/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/categories/subcategory/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/tags/tag1/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/tags/tag2/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/tags/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/2020/01/three_blog/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/</loc>
-    <lastmod>2020-01-02T19:34:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/2020/01/hugo%E4%BD%BF%E7%94%A8/</loc>
+    <loc>https://wangxu4869.github.io/categories/</loc>
     <lastmod>2020-01-02T16:48:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>uildDrafts/categories/java/</loc>
+    <loc>https://wangxu4869.github.io/2020/01/hugo%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2020-01-02T16:48:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>uildDrafts/tags/%E9%83%A8%E7%BD%B2/</loc>
+    <loc>https://wangxu4869.github.io/categories/java/</loc>
     <lastmod>2020-01-02T16:48:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>uildDrafts/categories/%E9%83%A8%E7%BD%B2/</loc>
+    <loc>https://wangxu4869.github.io/post/</loc>
     <lastmod>2020-01-02T16:48:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>uildDrafts/archives/</loc>
+    <loc>https://wangxu4869.github.io/tags/</loc>
+    <lastmod>2020-01-02T16:48:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/</loc>
+    <lastmod>2020-01-02T16:48:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/tags/%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2020-01-02T16:48:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/categories/%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2020-01-02T16:48:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/categories/category/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/categories/subcategory/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/tags/tag1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/tags/tag2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wangxu4869.github.io/1/01/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%84%E7%AE%97%E6%B3%95-leetcode%E5%81%9A%E9%A2%98%E7%AC%94%E8%AE%B0/</loc>
   </url>
   
 </urlset>
